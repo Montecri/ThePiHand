@@ -12,7 +12,9 @@ All hail Pi!
 <br/><br/>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/f6277844-226d-425b-a49a-47d08fe98664" width=40%></p>
-https://commons.wikimedia.org/wiki/File:Pi-unrolled-720.gif
+<p align="center">https://commons.wikimedia.org/wiki/File:Pi-unrolled-720.gif</p>
+
+<br/><br/>
 
 More info about Pi here: https://pt.wikipedia.org/wiki/Pi
 
@@ -26,9 +28,13 @@ Github 2023: https://github.com/Montecri/PiOnPi
 LinkedIn 2024: https://www.linkedin.com/pulse/pi-py-pi-calculating-pi-python-raspberry-cylon-pepers-monteiro-jtbvc/
 Github 2024: https://github.com/Montecri/Pi-Py-Pi
 
+<br/><br/>
+
 <p align="center"><img src="https://github.com/user-attachments/assets/2772964f-4389-4556-b1fd-79eddae2b9b2" width=40%></p>
-Robert Couse-Baker from Sacramento, California, CC BY 2.0 
- 
+<p align="center">Robert Couse-Baker from Sacramento, California, CC BY 2.0</p>
+
+<br/><br/>
+
 To celebrate this 2025 Pi Day I decided to create a new "display" to show the digits of Pi one by one. A (sort of) robotic hand, built using SolidWorks, 3D printed, Servo motors powered, which will open and close its "fingers" to display each Pi digit. Digits 0 to 5 range from all fingers closed to all open; the hand will fully close to indicate a new digit from 0 to 5 will be displayed, them display only the fingers associated with it; digits from 6 to 9 are displayed as two consecutive digits, for example, 5 + 3 for digit 8, so the hand will show five then quickly show 3, and, you know, you do the math and reach 8, you get the idea...
 
 <p align="center"><img src="https://github.com/user-attachments/assets/131326a0-ab72-4c4f-8f03-9fa65f9f4754" width=40%></p>
