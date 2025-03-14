@@ -63,6 +63,7 @@ Here is a video of this creation for your enjoyment:
 
 All source material to create your own Pi Hand can be found here:
 
+https://www.linkedin.com/pulse/happy-pi-day-2025-hand-cristiano-monteiro-h903f/
 https://github.com/Montecri/ThePiHand
 
 It's crude, but, hey, it works!
