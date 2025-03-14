@@ -56,10 +56,15 @@ I call it: The Pi Hand!
 <p align="center"><img src="https://github.com/user-attachments/assets/f8f6cfc0-a3a7-4e05-8d32-299f59e298bf" width=40%></p>
 
 
-Here is a video of this creation for your enjoyment:
+Here is a video of this creation for your enjoyment (with background music):
 
 <p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=zKS8LcoMIho" target="_blank">
  <img src="http://img.youtube.com/vi/zKS8LcoMIho/mqdefault.jpg" alt="Watch the video" width="320" border="10" />
+
+Now the no background music version:
+
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=3UpvRXGhNJM" target="_blank">
+ <img src="http://img.youtube.com/vi/3UpvRXGhNJM/mqdefault.jpg" alt="Watch the video" width="320" border="10" />
 
 All source material to create your own Pi Hand can be found here:
 
