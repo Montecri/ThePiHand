@@ -69,6 +69,7 @@ Now the no background music version:
 All source material to create your own Pi Hand can be found here:
 
 https://www.linkedin.com/pulse/happy-pi-day-2025-hand-cristiano-monteiro-h903f/
+<br/><br/>
 https://github.com/Montecri/ThePiHand
 
 It's crude, but, hey, it works!
